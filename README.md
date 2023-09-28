@@ -6,7 +6,7 @@
 
 ### Projeto da aula de programação de APP, Universidade Católica de Brasília.
 
-O projeto consiste na criação de um layout de um app e utilização de 'edittext' com utilização de variavéis usando o botão. 
+O projeto consiste na criação de um layout de um app e utilização de 'edittext' com utilização de variáveis usando o botão. 
 
 ## Autor
 
