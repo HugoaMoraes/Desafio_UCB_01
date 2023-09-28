@@ -33,8 +33,6 @@ O projeto consiste na criação de um layout de um app e utilização de 'editte
   </a>
 </div>
 
-##
-
 ## Screenshots
 
 <div align="center">
